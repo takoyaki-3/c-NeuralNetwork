@@ -9,6 +9,7 @@ This repo is c++ Neural Network made with only c++ STL.
 1. Download sample dataset
 
 ```
+cd c++NeuralNetwork
 cd sample_date
 ./getdata.bat
 ```
